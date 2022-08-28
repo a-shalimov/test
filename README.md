@@ -1,2 +1,2 @@
 # test
-Learning how to use git&amp;gitnub
+Learning how to use git &amp; gitnub
